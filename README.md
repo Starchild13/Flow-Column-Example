@@ -8,7 +8,7 @@ An Android application demonstrating dynamic, responsive multi-column chip layou
 
 |                  Portrait Mode                   | Landscape Mode |
 |:------------------------------------------------:| :---: |
-| ![Portrait Screenshot](screenshots/Portrait.png) | ![Landscape Screenshot](screenshots/landscape.png) |
+| ![Portrait Screenshot](screenshots/portrait.png) | ![Landscape Screenshot](screenshots/landscape.png) |
 
 ---
 
